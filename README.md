@@ -126,3 +126,4 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 ---
 
 ### Enjoy exploring and contributing to Zerodha Clone!
+# trading-platform
